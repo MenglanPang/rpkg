@@ -4,7 +4,7 @@ rpkg
 ====
 
 <!-- badges: start -->
-[![Travis build status](https://travis-ci.org/MenglanPang/rpkg.svg?branch=master)](https://travis-ci.org/MenglanPang/rpkg) <!-- badges: end -->
+[![Travis build status](https://travis-ci.org/MenglanPang/rpkg.svg?branch=master)](https://travis-ci.org/MenglanPang/rpkg) [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/MenglanPang/rpkg?branch=master&svg=true)](https://ci.appveyor.com/project/MenglanPang/rpkg) <!-- badges: end -->
 
 The goal of rpkg is to ...
 
