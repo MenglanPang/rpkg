@@ -11,6 +11,8 @@ The goal of rpkg is to ...
 Installation
 ------------
 
+add comments
+
 You can install the released version of rpkg from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
